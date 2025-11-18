@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Work experience </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li> 19.02 ~ 25.08 : 한림대학교 스마트IOT 학사 졸업</li><li> 24.07 ~ 24.12 : [KDigital]멀티잇 백엔드 개발(Java) 수료  </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> - 19.02 ~ 25.08 : 한림대학교 스마트IOT 학사 졸업 <br> - 24.07 ~ 24.12 : [KDigital]멀티잇 백엔드 개발(Java) 수료  </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
