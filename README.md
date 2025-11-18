@@ -1,6 +1,10 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:363535,100:0d0c0c&height=180&text=JunYoung's%20GitHub&animation=&fontColor=27ddda&fontSize=60" />
     </div>
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Work experience </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li> 19.02 ~ 25.08 : 한림대학교 스마트IOT 학사 졸업</li><li> 24.07 ~ 24.12 : [KDigital]멀티잇 백엔드 개발(Java) 수료  </div> 
+    </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://www.instagram.com/_junyoung00/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/_junyoung00/"> </a>
@@ -37,3 +41,8 @@
           <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
           </div>
     </div>
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunYoung00&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
+          /> </div> 
+    </div>
+    
